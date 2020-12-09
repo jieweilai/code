@@ -1,3 +1,4 @@
+#数字图像处理大作业
 from PIL import Image as im 
 from matplotlib import pyplot as plt 
 from collections import Counter 
